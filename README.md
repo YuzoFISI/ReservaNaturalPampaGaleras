@@ -1,7 +1,7 @@
 # Reserva Natural - Proyecto (Generado)
 
 Este repositorio contiene:
-- `proyect.sql` (tu archivo SQL original)
+- `proyect.sql` 
 - `backend/` - servidor Express para leer/servir/ejecutar el archivo SQL
 - `frontend/` - app React (Vite) para visualizar las secciones y el contenido
 
@@ -31,7 +31,4 @@ Seguridad y advertencias:
 - No habilites ejecución remota en entornos abiertos.
 - Revisa los scripts antes de ejecutarlos con permisos de DBA.
 
-Si quieres, puedo:
-- Añadir autenticación (JWT) al backend.
-- Añadir un proxy en Vite para desarrollo.
-- Implementar una vista para ejecutar procedures con parámetros.
+
